@@ -1,3 +1,5 @@
+//Reference: https://www.javatpoint.com/generics-in-java
+
 import java.util.*;
 
 public class Generics {
